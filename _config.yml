@@ -17,5 +17,8 @@ url: "http://jonathanw.de" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  akurama
 
+# Google Analytics
+google_analytics : UA-108081889-2
+
 # Build settings
 markdown: kramdown
