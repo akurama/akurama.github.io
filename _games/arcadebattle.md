@@ -1,5 +1,5 @@
 ---
-layout: games
+layout: page
 title: Arcade Battle
 permalink: /Games/ArcadeBattle/
 ---
