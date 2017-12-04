@@ -1,6 +1,7 @@
 ---
-layout: game
+layout: page
 title: Arcade Battle
-permalink: /Games/ArcadeBattle
+permalink: /Games/ArcadeBattle/
 ---
+
 Hallo
