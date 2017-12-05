@@ -16,3 +16,9 @@ layout: default
   <div>
   {% endfor %}
 </div>
+
+<div>
+  <p>Categories:</p>
+  {% for category in page.categories %}
+    <div> {{ category }} </div>
+  {% endif %}
