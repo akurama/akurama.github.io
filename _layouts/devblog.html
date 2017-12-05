@@ -4,14 +4,12 @@ layout: default
 
 {{ content }}
 
-
-
 {% if page.categories %}
   <div>
     <p>Categories
       {% for category in page.categories %}
         <a href="/search.html?query={{ category }}">{{ category }}</a>
-        {% unless forloop.last %}, {% endunless %} 
+        {% unless forloop.last %}, {% endunless %}
         {% endfor %}
     </p>
   </div>
