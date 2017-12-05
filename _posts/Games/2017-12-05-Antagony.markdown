@@ -2,7 +2,9 @@
 layout: game
 title: "Antagony"
 date: 2017-12-05 09:35:00 +0100
-categories: Antagony Game
+categories:
+  - "Antagony"
+  - "Game"
 Screenshots:
   - a
   - b
