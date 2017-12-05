@@ -3,7 +3,20 @@ layout: game
 title: "Antagony"
 date: 2017-12-05 09:35:00 +0100
 categories: Antagony Game
-Team: "Jonathan Witt"
+Team:
+  - "Jonathan Witt (Programing)"
+  - "Rick Junge (Programing)"
+  - "Nils Hausfeld (Game Design)"
+  - "Oliver Leins (Game Design)"
+  - "Niklas Nebelsieck (Art)"
+  - "Konstantin Heinitz (Art)"
+  - "Elmo Reimann (Prodruction)"
+Screenshots:
+  - a
+  - b
+  - c
+Started: "November 2017"
+Finished: "Februar 2018"
 ---
 
 Antagony.Soon
