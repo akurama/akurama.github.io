@@ -20,6 +20,6 @@ layout: default
 <div>
   <p>Categories:</p>
   {% for category in page.categories %}
-    <div> {{ category }} </div>
+    <div> <a href="/search.html?query={{ category }}">{{ category }}</a> </div>
   {% endfor %}
 </div>
