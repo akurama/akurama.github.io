@@ -19,6 +19,12 @@ layout: default
 
 {% for category in site.categories %}
 
-  {{ category }}
+  <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        <p>post</p>
+      {% endfor %}
+    {% endfor %}
+  </ul>
 
 {% endfor %}
