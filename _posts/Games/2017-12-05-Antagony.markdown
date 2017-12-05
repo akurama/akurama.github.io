@@ -6,9 +6,9 @@ categories:
   - "Antagony"
   - "Game"
 Screenshots:
-  - a
-  - b
-  - c
+  - http://via.placeholder.com/350x150
+  - http://via.placeholder.com/350x150
+  - http://via.placeholder.com/350x150
 Started: "November 2017"
 Finished: "Februar 2018"
 ---
