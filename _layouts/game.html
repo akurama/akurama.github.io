@@ -3,7 +3,9 @@ layout: default
 ---
 
 
-{{ page.Team }}
+{% for member in page.Team %}
+<div>{{ member }}<div>
+{% endfor %}
 
 {% for screenshot in page.Screenshots %}
 <div>{{ screenshot }}<div>
