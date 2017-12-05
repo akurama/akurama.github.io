@@ -9,6 +9,16 @@ Screenshots:
  - http://via.placeholder.com/350x150
 Started: "April 2017"
 Finished: "August 2017"
+Genre:
+  - Multiplayer
+  - Racer
+Engine: Unity
+Name: "BattleBlobs"
+TeamSize: "8"
 ---
-
 BattleBlobs.Soon
+
+About the game:
+
+
+My tasks in the project:

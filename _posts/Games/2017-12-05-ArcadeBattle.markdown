@@ -12,3 +12,8 @@ Finished: "est. Januar 2018"
 ---
 
 ArcadeBattle.Soon
+
+About the game:
+
+
+My tasks in the project:
