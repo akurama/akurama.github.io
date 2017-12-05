@@ -2,8 +2,21 @@
 layout: default
 ---
 
-{% for screenshot in page.Screenshots %}
-<div>{{ screenshot }}<div>
-{% endfor %}
-
 {{ content }}
+
+<div>
+  <h1>Game Facts</h1>
+</div>
+
+<div>
+  <h1>Screenshots</h1>
+  {% for screenshot in page.Screenshots %}
+  <div>{{ screenshot }}<div>
+  {% endfor %}
+</div>
+
+{% for category in site.categories %}
+
+  category
+
+{% endfor %}
