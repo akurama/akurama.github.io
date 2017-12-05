@@ -11,7 +11,9 @@ layout: default
 <div>
   <h1>Screenshots</h1>
   {% for screenshot in page.Screenshots %}
-  <div>{{ screenshot }}<div>
+  <div>
+    <img src="{{ screenshot }}">
+  <div>
   {% endfor %}
 </div>
 

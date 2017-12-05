@@ -2,11 +2,13 @@
 layout: game
 title: "Scorched"
 date: 2017-12-05 09:30:00 +0100
-categories: Scorched Game
+categories:
+  - Scorched
+  - Game
 Screenshots:
-  - a
-  - b
-  - c
+  - /media/img/1.jpg
+  - /
+  - /
 Started: "November 2016"
 Finished: "Februar 2017"
 
