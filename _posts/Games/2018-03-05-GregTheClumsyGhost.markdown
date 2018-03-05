@@ -1,5 +1,5 @@
 ---
-layout: Game
+layout: game
 title: "Greg the Clumsy Ghost"
 date: 2018-03-05 22:05:00 +0100
 categories:
