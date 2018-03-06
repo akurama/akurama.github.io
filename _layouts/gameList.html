@@ -4,9 +4,9 @@ layout: default
 
 <ul class="post-list">
   {% for post in site.posts %}
-    <div>post.title</div>
+    <div> {{ post.title }}</div>
     {% for tag in post.categories %}
-      <div>tag</div>
+      <div>{{ tag }}</div>
     {% endfor %}
   {% endfor %}
 </ul>
