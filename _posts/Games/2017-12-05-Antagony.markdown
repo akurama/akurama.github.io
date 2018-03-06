@@ -11,6 +11,7 @@ Screenshots:
   - http://via.placeholder.com/350x150
 Started: "November 2017"
 Finished: "Februar 2018"
+Thumbnail: http://via.placeholder.com/500x201
 ---
 
 Antagony.Soon
