@@ -4,9 +4,10 @@ layout: default
 
 <ul class="post-list">
   {% for post in site.posts %}
-    <div> {{ post.title }}</div>
     {% for tag in post.categories %}
-      <div>{{ tag }}</div>
+      {% if tag == "Game" %}
+      <div>{{ tag }}  {{ post.title }}</div>
+      {% endif %}
     {% endfor %}
   {% endfor %}
 </ul>
