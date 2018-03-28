@@ -1,9 +1,10 @@
 .headline {
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  text-decoration: none;
   color: #707070;
-  font-weight: bold;
+  font-weight: bolder;
+  padding: 10px;
+  letter-spacing: 5px;
+  font-size: 30px;
 }
 
 .headline:hover {
@@ -18,4 +19,8 @@
 
 .headline-div{
   text-align: center;
+}
+
+.wrapper{
+  box-shadow: 5px 10px #888888;
 }
