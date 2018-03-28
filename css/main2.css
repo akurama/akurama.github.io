@@ -5,6 +5,16 @@
   color: #707070;
 }
 
+.headline:hover {
+  text-decoration: none;
+  color: #707070;
+}
+
+.headline:visited {
+  text-decoration: none;
+  color: #707070;
+}
+
 .headline-div{
   text-align: center;
 }
