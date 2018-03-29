@@ -2,10 +2,20 @@
 
   {% include analytics.html %}
 
-  <div class="wrapper">
+  <div class="contaner">
+    <div class="row">
+    {% if page.title %}
+      <div class="col-sm-1">
+        <div class="backarrow">
+            Pfeil
+        </div>
+      </div>
+    {% endif %}
 
-    <div class="headline-div">
-      <a class="headline" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="col-lg">
+      <div class="headline-div">
+        <a class="headline" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      </div>
     </div>
 
     <nav class="site-nav">
@@ -17,7 +27,7 @@
         </svg>
       </a>
     </nav>
-
+    </div>
   </div>
 
 </header>
