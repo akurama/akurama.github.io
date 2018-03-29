@@ -7,6 +7,10 @@
 	font-size: 30px;
 }
 
+header{
+	background-color: #ffffff;
+}
+
 .header-headline:hover{
 	text-decoration: none;
 	color: #707070;
@@ -26,26 +30,34 @@
 	margin-bottom: 20px;
 }
 
+.footer{
+	padding-top: 20px;
+	background-color: #f2f2f2;
+}
 
 .footer-link{
 	font-family: 'Montserrat', sans-serif;
-	color: #707070;
-}
-
-.footer{
-	margin-top: 20px;
+	color: #565656;
 }
 
 .footer-link:hover{
 	text-decoration: none;
-	color: #707070;
+	color: #565656;
 }
 
 .footer-link:visited{
 	text-decoration: none;
-	color: #707070;
+	color: #565656;
+}
+
+.text-right{
+	text-align: right;
 }
 
 .normal-text{
 	font-family: 'Montserrat', sans-serif;
+}
+
+body{
+	background-color: #f2f2f2;
 }
