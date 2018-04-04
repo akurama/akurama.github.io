@@ -107,7 +107,18 @@ header{
 }
 
 .spaceing-gallary{
-	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.col-md-6{
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+.col-md-4{
+	padding-left: 8px;
+	padding-right: 8px;
 }
 
 body{
