@@ -79,12 +79,16 @@ header{
 
 	padding-top: 8px;
 	padding-bottom: 7px;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 25%;
+	padding-right: 25%;
 	
 	margin-top: 8px;
+	margin-left: auto;
+	margin-right: auto;
 	
 	border-radius: 2px;
+
+	display: block;
 }
 
 .button-box-grey{
@@ -98,12 +102,26 @@ header{
 
 	padding-top: 8px;
 	padding-bottom: 7px;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 25%;
+	padding-right: 25%;
 	
 	margin-top: 8px;
+	margin-left: auto;
+	margin-right: auto;
 	
 	border-radius: 2px;
+
+	display: block;
+}
+
+.button-links:hover{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.button-links:visited{
+	text-decoration: none;
+	color: #ffffff;
 }
 
 .spaceing-gallary{
@@ -116,9 +134,34 @@ header{
 	padding-left: 8px;
 }
 
+.col-md-6-8px{
+	padding-right: 7px;
+	padding-left: 0px;
+}
+
 .col-md-4{
 	padding-left: 8px;
 	padding-right: 8px;
+}
+
+.col-md-8{
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.col-md-3{
+	padding-right: 7px;
+	padding-left: 0px;
+}
+
+.img-centered-verticaly{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.img-centered-horizontal{
+	margin-left: auto;
+	margin-right: auto;
 }
 
 body{
