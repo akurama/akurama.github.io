@@ -106,6 +106,10 @@ header{
 	border-radius: 2px;
 }
 
+.spaceing-gallary{
+	margin-top: 20px;
+}
+
 body{
 	background-color: #f2f2f2;
 }
