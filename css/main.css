@@ -56,6 +56,54 @@ header{
 
 .normal-text{
 	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	color: #707070;
+}
+
+.centered-text{
+	text-align: center;
+}
+
+.justified-text{
+	text-align: justify;
+}
+
+.button-box-blue{
+	background-color: #0077b5;
+	border: none;
+	
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	line-height: 1;
+	color: #ffffff;
+
+	padding-top: 8px;
+	padding-bottom: 7px;
+	padding-left: 20%;
+	padding-right: 20%;
+	
+	margin-top: 8px;
+	
+	border-radius: 2px;
+}
+
+.button-box-grey{
+	background-color: #313335;
+	border: none;
+	
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	line-height: 1;
+	color: #ffffff;
+
+	padding-top: 8px;
+	padding-bottom: 7px;
+	padding-left: 20%;
+	padding-right: 20%;
+	
+	margin-top: 8px;
+	
+	border-radius: 2px;
 }
 
 body{
